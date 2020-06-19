@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "md-add-circle",
+    "text": "md-add-circle"
+  },
+  {
+    "id": 2,
+    "name": "ios-alarm",
+    "text": "ios-alarm"
+  },
+  {
+    "id": 3,
+    "name": "md-albums",
+    "text": "md-albums"
+  },
+  {
+    "id": 4,
+    "name": "ios-alert",
+    "text": "ios-alert"
+  },
+  {
+    "id": 5,
+    "name": "ios-american-football",
+    "text": "ios-american-football"
+  },
+  {
+    "id": 6,
+    "name": "ios-analytics",
+    "text": "ios-analytics"
+  },
+  {
+    "id": 7,
+    "name": "logo-android",
+    "text": "logo-android"
+  },
+  {
+    "id": 8,
+    "name": "logo-angular",
+    "text": "logo-angular"
+  },
+  {
+    "id": 10,
+    "name": "md-aperture",
+    "text": "md-aperture"
+  },
+  {
+    "id": 11,
+    "name": "logo-apple",
+    "text": "logo-apple"
+  },
+  {
+    "id": 12,
+    "name": "ios-apps",
+    "text": "ios-apps"
+  },
+  {
+    "id": 13,
+    "name": "ios-appstore",
+    "text": "ios-appstore"
+  },
+  {
+    "id": 14,
+    "name": "ios-archive",
+    "text": "ios-archive"
+  },
+  {
+    "id": 15,
+    "name": "md-barcode",
+    "text": "md-barcode"
+  },
+  {
+    "id": 16,
+    "name": "ios-baseball",
+    "text": "ios-baseball"
+  },
+  {
+    "id": 17,
+    "name": "ios-basket",
+    "text": "ios-basket"
+  },
+  {
+    "id": 18,
+    "name": "ios-beer",
+    "text": "ios-beer"
+  },
+  {
+    "id": 19,
+    "name": "md-bicycle",
+    "text": "md-bicycle"
+  },
+  {
+    "id": 20,
+    "name": "ios-boat",
+    "text": "ios-boat"
+  },
+  {
+    "id": 21,
+    "name": "md-body",
+    "text": "md-body"
+  },
+  {
+    "id": 22,
+    "name": "ios-bonfire",
+    "text": "ios-bonfire"
+  },
+  {
+    "id": 23,
+    "name": "ios-book",
+    "text": "ios-book"
+  },
+  {
+    "id": 24,
+    "name": "md-bookmark",
+    "text": "md-bookmark"
+  },
+  {
+    "id": 25,
+    "name": "ios-bowtie",
+    "text": "ios-bowtie"
+  },
+  {
+    "id": 26,
+    "name": "ios-brush",
+    "text": "ios-brush"
+  },
+  {
+    "id": 27,
+    "name": "logo-buffer",
+    "text": "logo-buffer"
+  },
+  {
+    "id": 28,
+    "name": "ios-bug",
+    "text": "ios-bug"
+  },
+  {
+    "id": 29,
+    "name": "md-build",
+    "text": "md-build"
+  },
+  {
+    "id": 29,
+    "name": "ios-bulb",
+    "text": "ios-bulb"
+  },
+  {
+    "id": 30,
+    "name": "md-bus",
+    "text": "md-bus"
+  },
+  {
+    "id": 31,
+    "name": "md-cafe",
+    "text": "md-cafe"
+  },
+  {
+    "id": 32,
+    "name": "ios-call",
+    "text": "ios-call"
+  },
+  {
+    "id": 33,
+    "name": "ios-card",
+    "text": "ios-card"
+  },
+  {
+    "id": 34,
+    "name": "md-cart",
+    "text": "md-cart"
+  },
+  {
+    "id": 35,
+    "name": "ios-car",
+    "text": "ios-car"
+  },
+  {
+    "id": 36,
+    "name": "md-clock",
+    "text": "md-clock"
+  },
+  {
+    "id": 37,
+    "name": "ios-cloud",
+    "text": "ios-cloud"
+  },
+  {
+    "id": 38,
+    "name": "logo-codepen",
+    "text": "logo-codepen"
+  },
+  {
+    "id": 39,
+    "name": "ios-disc",
+    "text": "ios-disc"
+  },
+  {
+    "id": 40,
+    "name": "ios-egg",
+    "text": "ios-egg"
+  },
+  {
+    "id": 41,
+    "name": "ios-filing",
+    "text": "ios-filing"
+  },
+  {
+    "id": 42,
+    "name": "md-flame",
+    "text": "md-flame"
+  },
+  {
+    "id": 43,
+    "name": "ios-flower",
+    "text": "ios-flower"
+  },
+  {
+    "id": 44,
+    "name": "ios-game-controller-b",
+    "text": "ios-game-controller-b"
+  },
+  {
+    "id": 45,
+    "name": "md-git-branch",
+    "text": "md-git-branch"
+  },
+  {
+    "id": 46,
+    "name": "ios-hammer",
+    "text": "ios-hammer"
+  },
+  {
+    "id": 47,
+    "name": "md-happy",
+    "text": "md-happy"
+  },
+  {
+    "id": 48,
+    "name": "ios-headset",
+    "text": "ios-headset"
+  },
+  {
+    "id": 49,
+    "name": "md-heart",
+    "text": "md-heart"
+  },
+  {
+    "id": 50,
+    "name": "ios-home",
+    "text": "ios-home"
+  },
+  {
+    "id": 51,
+    "name": "ios-ice-cream",
+    "text": "ios-ice-cream"
+  },
+  {
+    "id": 52,
+    "name": "md-infinite",
+    "text": "md-infinite"
+  },
+  {
+    "id": 53,
+    "name": "md-ionic",
+    "text": "md-ionic"
+  },
+  {
+    "id": 54,
+    "name": "md-ionitron",
+    "text": "md-ionitron"
+  },
+  {
+    "id": 55,
+    "name": "md-jet",
+    "text": "md-jet"
+  },
+  {
+    "id": 56,
+    "name": "md-key",
+    "text": "md-key"
+  },
+  {
+    "id": 57,
+    "name": "ios-keypad",
+    "text": "ios-keypad"
+  },
+  {
+    "id": 58,
+    "name": "md-laptop",
+    "text": "md-laptop"
+  },
+  {
+    "id": 59,
+    "name": "ios-left",
+    "text": "ios-left"
+  },
+  {
+    "id": 60,
+    "name": "md-link",
+    "text": "md-link"
+  },
+  {
+    "id": 61,
+    "name": "ios-locate",
+    "text": "ios-locate"
+  },
+  {
+    "id": 62,
+    "name": "md-magnet",
+    "text": "md-magnet"
+  },
+  {
+    "id": 63,
+    "name": "md-mail",
+    "text": "md-mail"
+  },
+  {
+    "id": 64,
+    "name": "ios-moon",
+    "text": "ios-moon"
+  },
+  {
+    "id": 65,
+    "name": "md-musical-notes",
+    "text": "md-musical-notes"
+  },
+  {
+    "id": 66,
+    "name": "ios-navigate",
+    "text": "ios-navigate"
+  },
+  {
+    "id": 67,
+    "name": "md-notifications",
+    "text": "md-notifications"
+  },
+  {
+    "id": 68,
+    "name": "ios-nutrition",
+    "text": "ios-nutrition"
+  },
+  {
+    "id": 69,
+    "name": "ios-outlet",
+    "text": "ios-outlet"
+  },
+  {
+    "id": 70,
+    "name": "ios-paper-plane",
+    "text": "ios-paper-plane"
+  },
+  {
+    "id": 71,
+    "name": "md-planet",
+    "text": "md-planet"
+  },
+  {
+    "id": 72,
+    "name": "md-power",
+    "text": "md-power"
+  },
+  {
+    "id": 73,
+    "name": "md-pricetags",
+    "text": "md-pricetags"
+  },
+  {
+    "id": 74,
+    "name": "ios-recording",
+    "text": "ios-recording"
+  },
+  {
+    "id": 75,
+    "name": "md-restaurant",
+    "text": "md-restaurant"
+  },
+  {
+    "id": 76,
+    "name": "ios-ribbon",
+    "text": "ios-ribbon"
+  },
+  {
+    "id": 77,
+    "name": "ios-rose",
+    "text": "ios-rose"
+  },
+  {
+    "id": 78,
+    "name": "ios-shirt",
+    "text": "ios-shirt"
+  },
+  {
+    "id": 79,
+    "name": "md-star",
+    "text": "md-star"
+  },
+  {
+    "id": 80,
+    "name": "ios-stats",
+    "text": "ios-stats"
+  },
+  {
+    "id": 81,
+    "name": "md-stopwatch",
+    "text": "md-stopwatch"
+  },
+  {
+    "id": 82,
+    "name": "ios-sunny",
+    "text": "ios-sunny"
+  },
+  {
+    "id": 83,
+    "name": "ios-videocam",
+    "text": "ios-videocam"
+  },
+  {
+    "id": 84,
+    "name": "ios-water",
+    "text": "ios-water"
+  },
+  {
+    "id": 85,
+    "name": "logo-vimeo",
+    "text": "logo-vimeo"
+  },
+  {
+    "id": 86,
+    "name": "logo-chrome",
+    "text": "logo-chrome"
+  },
+  {
+    "id": 87,
+    "name": "logo-css3",
+    "text": "logo-css3"
+  },
+  {
+    "id": 88,
+    "name": "logo-html5",
+    "text": "logo-html5"
+  },
+  {
+    "id": 89,
+    "name": "logo-javascript",
+    "text": "logo-javascript"
+  },
+  {
+    "id": 90,
+    "name": "logo-github",
+    "text": "logo-github"
+  }
+]
